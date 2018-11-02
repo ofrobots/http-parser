@@ -1,4 +1,5 @@
 /out/
+/bazel-*
 core
 tags
 *.o
